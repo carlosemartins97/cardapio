@@ -1,0 +1,10 @@
+@import '../shared/style/variables.scss';
+
+footer {
+  background: $background;
+  text-align: center;
+  font-size: 0.7rem;
+  color: white;
+  
+  padding: 20px;
+}

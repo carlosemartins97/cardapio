@@ -1,0 +1,9 @@
+div {
+  height: calc(100vh - 347px);
+  overflow: scroll;
+  
+}
+
+div::-webkit-scrollbar {
+  width: 0px;
+}
